@@ -36,7 +36,4 @@ A feature-rich finance app inspired by Click Up, a popular finance management ap
 - **Networking**: Retrofit
 - **Authentication**: OAuth 2.0, Biometric Authentication
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Finance_App_Clone.git
+
